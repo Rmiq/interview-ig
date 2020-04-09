@@ -13,4 +13,4 @@
     ]
  */
 
-export const API = 'https://jsonplaceholder.typicode.com/photos'
+export const API = 'https://jsonplaceholder.typicode.com/photos?albumId=1'
