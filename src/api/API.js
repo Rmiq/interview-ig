@@ -1,4 +1,5 @@
 /**
+ * See doc: https://jsonplaceholder.typicode.com/
  * Response example:
    [
         {
